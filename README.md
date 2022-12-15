@@ -1,2 +1,1 @@
-echo 'Hello, Hexlet!' > README.md
-echo 'Haskell Curry' > PEOPLE.md
+Hello, Hexlet! How are you?
